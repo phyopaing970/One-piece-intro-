@@ -1,0 +1,122 @@
+<!-- index.html -->
+<!DOCTYPE html><!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Luffy vs Katakuri - Intro</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: black;
+      overflow: hidden;
+      font-family: 'Arial', sans-serif;
+      color: white;
+    }
+
+    .intro-container {
+      position: relative;
+      height: 100vh;
+      background: url('https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif') center center / cover no-repeat;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+
+    .intro-text {
+      background: rgba(0, 0, 0, 0.7);
+      padding: 20px;
+      border-radius: 10px;
+      animation: fadeIn 2s ease-in-out;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin: 0;
+      color: crimson;
+    }
+
+    p {
+      font-size: 1.5em;
+      margin-top: 10px;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: scale(0.95); }
+      to { opacity: 1; transform: scale(1); }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="intro-container">
+    <div class="intro-text">
+      <h1>Luffy vs Katakuri</h1>
+      <p>The Mirror World Showdown Begins!</p>
+    </div>
+  </div>
+
+</body>
+</html>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Luffy vs Katakuri - Intro</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: black;
+      overflow: hidden;
+      font-family: 'Arial', sans-serif;
+      color: white;
+    }
+
+    .intro-container {
+      position: relative;
+      height: 100vh;
+      background: url('https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif') center center / cover no-repeat;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+
+    .intro-text {
+      background: rgba(0, 0, 0, 0.7);
+      padding: 20px;
+      border-radius: 10px;
+      animation: fadeIn 2s ease-in-out;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin: 0;
+      color: crimson;
+    }
+
+    p {
+      font-size: 1.5em;
+      margin-top: 10px;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: scale(0.95); }
+      to { opacity: 1; transform: scale(1); }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="intro-container">
+    <div class="intro-text">
+      <h1>Luffy vs Katakuri</h1>
+      <p>The Mirror World Showdown Begins!</p>
+    </div>
+  </div>
+
+</body>
+</html>
